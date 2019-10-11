@@ -1,0 +1,16 @@
+{
+  "name": "keiko-corp",
+  "version": "1.0.0",
+  "description": "The greatest company ever created",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d keiko-corp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://joel29dec/github.io/keiko-corp",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
